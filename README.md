@@ -1,4 +1,4 @@
-# manually adjust screen brightness
+# Editing screen brightness with opencv
 If you move your hand to the right, the screen brightness will increase. If you move your hand to the left, the screen brightness decreases. adjusts everything according to the index finger
 
 
