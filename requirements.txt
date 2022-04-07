@@ -4,3 +4,4 @@
 numpy
 opencv-python
 mediapipe
+screen-brightness-control
